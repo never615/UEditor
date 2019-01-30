@@ -13,7 +13,6 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6",
         "overtrue/laravel-ueditor": "~1.0"
     },
     "require-dev": {
