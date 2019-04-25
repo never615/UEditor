@@ -22,7 +22,7 @@ class UeditorServiceProvider extends ServiceProvider
         }
 
         Admin::booting(function () {
-            Form::extend('editor', Editor::class);
+            Form::extend('ueditor', Editor::class);
         });
     }
 }
